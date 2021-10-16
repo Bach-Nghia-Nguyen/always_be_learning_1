@@ -1,0 +1,5 @@
+{
+  "squirrel": false,
+  "events": ["work", "touched tree", "pizza", "running"],
+  "bet-bet": { "alarm": 8, "bell": 10, "gooding": false }
+}
